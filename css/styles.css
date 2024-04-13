@@ -422,6 +422,11 @@ color: #404BBF;
 .footer-container{
 display: flex;
 gap: 120px;
+align-items: baseline;
+}
+
+.footer-container-sic {
+    margin-right: 120px;
 }
 
 .footer-sic {
