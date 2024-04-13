@@ -410,7 +410,8 @@ color: #404BBF;
     transform: translateY(100%);
 }
 
-.made-text-list:hover {
+.made-text-list:hover,
+.made-text-list:focus {
     transform: translateY(0%);
 }
 
