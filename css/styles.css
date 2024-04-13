@@ -330,6 +330,7 @@ color: #404BBF;
     gap:24px;
     padding-left: 16px;
     padding-top: 8px;
+    justify-content: center;
 }
 
 .icon-item {
