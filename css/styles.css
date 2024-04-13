@@ -393,7 +393,7 @@ color: #404BBF;
 .made-image-container {
     position: relative;
     overflow: hidden;
-    
+
 }
 
 .made-image {
@@ -415,6 +415,9 @@ color: #404BBF;
     letter-spacing: 0.02em;
     color: #2e2f42;
     margin-bottom: 8px;
+}
+
+.text-container {
 }
 
 .made-text {
